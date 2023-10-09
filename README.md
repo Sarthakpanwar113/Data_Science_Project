@@ -4,3 +4,4 @@
 1.  Global Plastic Pollution Analysis
 2.  Credit Card Fraud Detection
 3. Stock market Predicition
+4. Movie redcomendation
