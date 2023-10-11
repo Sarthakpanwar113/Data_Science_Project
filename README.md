@@ -6,3 +6,4 @@
 3. Stock market Predicition
 4. Movie redcomendation
 5. Human Activity Recognition
+6. amazon prediction
