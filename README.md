@@ -7,3 +7,4 @@
 4. Movie redcomendation
 5. Human Activity Recognition
 6. amazon prediction
+7. Flower Classfication
