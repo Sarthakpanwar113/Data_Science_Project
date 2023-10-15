@@ -9,4 +9,5 @@
 6. amazon prediction
 7. Flower Classfication
 8. uber driver
-9. Grocery Sales Forecast/Grocery sales analysi
+9. Grocery Sales Forecast/Grocery sales analysis
+10. Symptom Disease Sorting
