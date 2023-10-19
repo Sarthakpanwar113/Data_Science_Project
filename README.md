@@ -12,3 +12,4 @@
 9. Grocery Sales Forecast/Grocery sales analysis
 10. Symptom Disease Sorting
 11. General Election Poll Analysis
+12.  BigMart Sales Analysis
