@@ -14,3 +14,4 @@
 11. General Election Poll Analysis
 12.  BigMart Sales Analysis
 13.  Covid 19
+14.  IPL Data Analysis
