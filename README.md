@@ -15,3 +15,4 @@
 12.  BigMart Sales Analysis
 13.  Covid 19
 14.  IPL Data Analysis
+15.  Data Science Projects 15 - Forbes  Paid Athletes
