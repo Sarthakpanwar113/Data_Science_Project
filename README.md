@@ -16,3 +16,4 @@
 13.  Covid 19
 14.  IPL Data Analysis
 15.  Data Science Projects 15 - Forbes  Paid Athletes
+16.  Data Science Projects 16 - Supermarket Sales Prediction
