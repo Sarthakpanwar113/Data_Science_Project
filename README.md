@@ -21,3 +21,4 @@
 18.  Data Science Projects 18 - Predict Star
 19.  /Data Science Projects 18 - Predict Star Types
 20.  Data Science Projects 20 -London-based hotels analysis
+21.  Data Science Projects 21 -US Candy Production by Month
