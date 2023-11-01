@@ -18,4 +18,5 @@
 15.  Data Science Projects 15 - Forbes  Paid Athletes
 16.  Data Science Projects 16 - Supermarket Sales Prediction
 17.  Data Science Projects 19 - Twitter Senti Analysis
-18.  Data Science Projects 18 - Predict Star 
+18.  Data Science Projects 18 - Predict Star
+19.  /Data Science Projects 18 - Predict Star Types/
