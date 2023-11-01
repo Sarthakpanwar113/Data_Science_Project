@@ -23,3 +23,4 @@
 20.  Data Science Projects 20 -London-based hotels analysis
 21.  Data Science Projects 21 -US Candy Production by Month
 22.  Data Science Projects 22 - Air Quality Index Analysis
+23.  Data Science Projects 23 - Employee Attrition/Employee
