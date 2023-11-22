@@ -24,3 +24,5 @@
 21.  Data Science Projects 21 -US Candy Production by Month
 22.  Data Science Projects 22 - Air Quality Index Analysis
 23.  Data Science Projects 23 - Employee Attrition/Employee
+24.  Data Science Projects 24 - in vehical recommmendation
+25.  Data Science Projects 25 - Market Basket Analysis
