@@ -26,3 +26,4 @@
 23.  Data Science Projects 23 - Employee Attrition/Employee
 24.  Data Science Projects 24 - in vehical recommmendation
 25.  Data Science Projects 25 - Market Basket Analysis
+26.  Data Science Projects 26 - Forbes Billionaires 2021 Data Analysis
