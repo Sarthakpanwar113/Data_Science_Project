@@ -28,3 +28,4 @@
 25.  Data Science Projects 25 - Market Basket Analysis
 26.  Data Science Projects 26 - Forbes Billionaires 2021 Data Analysis
 27.  Data Science Projects 27 - Garbage Classification
+28.  Data Science Projects 27 -Global Plastic Pollution
